@@ -21,6 +21,7 @@
     .custom-checkbox_visual {
         width: 36px;
         height: 36px;
+        background-color: #fff;
         box-sizing: border-box;
         border: 1px solid #ccc;
         border-radius: 50%;
@@ -34,7 +35,7 @@
             width: 20px;
             height: 20px;
             position: absolute;
-            top: 50%;
+            top: 56%;
             left: 50%;
             margin: -10px;
             background: url(../../../images/completed.png);

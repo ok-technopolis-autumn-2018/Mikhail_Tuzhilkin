@@ -2,6 +2,7 @@
 
 .todo-creator {
     padding: 16px 16px;
+    border-bottom: solid rgb(230, 230, 230) 1px;
     }
     .todo-creator:after {
         content: '';
